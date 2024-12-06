@@ -4,4 +4,5 @@ body {
         url('../assets/api/cover/bg-cover.png');
     background-repeat: no-repeat;
     background-size: cover;
+    background-blend-mode: color;
 }
